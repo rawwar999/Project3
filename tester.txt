@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 228
-=======
-assa
->>>>>>> 8fcf34d644e9397ebf94be17bcffbeb48fdf27e9
